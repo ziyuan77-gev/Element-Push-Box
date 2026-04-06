@@ -1,0 +1,297 @@
+﻿来源,是否需要翻译,简体中文,英语
+选项卡,TRUE,上一关,Previous Level
+选项卡,TRUE,下一关,Next level
+选项卡,TRUE,开启关卡,Open level
+选项卡,TRUE,推,Push
+铭牌,TRUE,{1:s.关卡类型},{1:s. 关卡类型}
+铭牌,TRUE,<i><color=#80C0FF>蒸发</color></i>,<i><color=#80C0FF>Evaporation</color></i>
+铭牌,TRUE,<i><color=#99FFFF>冻结</color></i>,<i><color=#99FFFF>Freeze</color></i>
+铭牌,TRUE,<i><color=#99FFFF>融化</color></i>,<i><color=#99FFFF>Melt</color></i>
+铭牌,TRUE,<i><color=#FF9999>超载</color></i>,<i><color=#FF9999>Overload</color></i>
+铭牌,TRUE,<i><color=#FFACFF>感电</color></i>,<i><color=#FFACFF>Electric Shock</color></i>
+铭牌,TRUE,关卡:<COLOR=#F39000>{1:s.关卡}/{1:s.关卡1}</color>,Level:<COLOR=#F39000>{1:s.关卡}/{1:s.关卡1}</color>
+铭牌,TRUE,关卡：<color=#F39000>{1:s.关卡数}</color>,Stage: <color=#F39000>{1:s.关卡数}</color>
+小地图,TRUE,标记1,Label 1
+自定义变量,FALSE,1086324738,
+自定义变量,FALSE,1086324739,
+自定义变量,FALSE,1086324740,
+自定义变量,FALSE,1086324741,
+自定义变量,FALSE,1086324742,
+自定义变量,FALSE,1086324743,
+自定义变量,FALSE,1086324744,
+自定义变量,FALSE,1086324745,
+自定义变量,TRUE,不存在该玩家,This player does not exist
+自定义变量,TRUE,未进入关卡,Did not enter the level
+自定义变量,TRUE,未进入奇遇,Did not enter the adventure
+自定义变量,FALSE,玩家1数据,
+自定义变量,FALSE,玩家2数据,
+自定义变量,FALSE,玩家3数据,
+自定义变量,FALSE,玩家4数据,
+自定义变量,FALSE,玩家5数据,
+自定义变量,FALSE,玩家6数据,
+自定义变量,FALSE,玩家7数据,
+自定义变量,FALSE,玩家8数据,
+自定义变量,TRUE,用于判断自身元件类型与属性,Used to determine the type and attributes of its own components
+自定义变量,TRUE,用于判断自身是否在运动,Used to determine whether oneself is in motion
+自定义变量,TRUE,超载时判断自身是否被破坏,Determine whether it is damaged when overloaded
+"自定义变量,界面控件组",TRUE,基础关卡,Basic Level
+"自定义变量,界面控件组",TRUE,教学关卡,Teaching Level
+"自定义变量,界面控件组,节点图",TRUE,关卡,Level
+"自定义变量,节点图",FALSE," ",
+"自定义变量,节点图",TRUE,元件类型,Component Type
+"自定义变量,节点图",TRUE,冰质立方体,Ice Cube
+"自定义变量,节点图",TRUE,冻结水质立方体,Frozen water cube
+"自定义变量,节点图",TRUE,坚固度,Strength
+"自定义变量,节点图",TRUE,无按钮,No button
+"自定义变量,节点图",TRUE,本关卡正在被挑战，请选择其他关卡或观战本关卡,This level is currently being challenged. Please choose another level or watch this level.
+"自定义变量,节点图",TRUE,水质立方体,Water Quality Cube
+"自定义变量,节点图",TRUE,火质立方体,Fire Cube
+"自定义变量,节点图",TRUE,请先退出或通关后再选择其他关卡!,Please exit or complete the level before selecting another one!
+"自定义变量,节点图",TRUE,运动中,in motion
+"自定义变量,节点图",TRUE,通常立方体,Usually a cube
+"自定义变量,节点图",TRUE,雷质立方体,Thunder cube
+语音和文字聊天管理,FALSE,你好！,
+语音和文字聊天管理,FALSE,全局,
+阵营,FALSE,初始物件阵营,
+阵营,FALSE,初始玩家阵营,
+阵营,FALSE,初始造物阵营,
+阵营,FALSE,立方体阵营,
+界面控件组,TRUE,{1:p1.关卡类型}第{1:p1.关卡数}关,{1:p1.关卡类型}Level {1:p1.关卡数}
+界面控件组,FALSE,{1:p1.当前状态},
+界面控件组,FALSE,{1:p1.玩家名称},
+界面控件组,TRUE,{1:p2.关卡类型}第{1:p2.关卡数}关,{1:p2.关卡类型}Level {1:p2.关卡数}
+界面控件组,FALSE,{1:p2.当前状态},
+界面控件组,FALSE,{1:p2.玩家名称},
+界面控件组,TRUE,{1:p3.关卡类型}第{1:p3.关卡数}关,{1:p3.关卡类型}Level {1:p3.关卡数}
+界面控件组,FALSE,{1:p3.当前状态},
+界面控件组,FALSE,{1:p3.玩家名称},
+界面控件组,TRUE,{1:p4.关卡类型}第{1:p4.关卡数}关,{1:p4.关卡类型}Level {1:p4.关卡数}
+界面控件组,FALSE,{1:p4.当前状态},
+界面控件组,FALSE,{1:p4.玩家名称},
+界面控件组,TRUE,{1:p5.关卡类型}第{1:p5.关卡数}关,{1:p5.关卡类型}Level {1:p5.关卡数}
+界面控件组,FALSE,{1:p5.当前状态},
+界面控件组,FALSE,{1:p5.玩家名称},
+界面控件组,TRUE,{1:p6.关卡类型}第{1:p6.关卡数}关,{1:p6.关卡类型}Level {1:p6.关卡数}
+界面控件组,FALSE,{1:p6.当前状态},
+界面控件组,FALSE,{1:p6.玩家名称},
+界面控件组,TRUE,{1:p7.关卡类型}第{1:p7.关卡数}关,{1:p7.关卡类型}Level {1:p7.关卡数}
+界面控件组,FALSE,{1:p7.当前状态},
+界面控件组,FALSE,{1:p7.玩家名称},
+界面控件组,TRUE,{1:p8.关卡类型}第{1:p8.关卡数}关,{1:p8.关卡类型}Level {1:p8.关卡数}
+界面控件组,FALSE,{1:p8.当前状态},
+界面控件组,FALSE,{1:p8.玩家名称},
+界面控件组,FALSE,{1:ps.关卡数}{1:ps.关卡类型},
+界面控件组,TRUE,{1:ps.关卡类型}<color=#D3BC8E>第{1:ps.关卡数}关</color>,{1:ps.关卡类型}<color=#D3BC8E>Level {1:ps.关卡数}</color>
+界面控件组,TRUE,{1:ps.关卡类型}第{1:ps.关卡数}关,{1:ps.关卡类型}Level {1:ps.关卡数}
+界面控件组,FALSE,{1:ps.玩家名称},
+界面控件组,FALSE,{1:ps.通关状态},
+界面控件组,FALSE,<color=#F39000><size=50><i>{1:ps.提示与警告.0}</i></size></color>,
+界面控件组,TRUE,<color=#FF5E41><i>强制退出</i></color>,<color=#FF5E41><i>Force Quit</i></color>
+界面控件组,FALSE,<color=#FF5E41><size=50><i>{1:ps.提示与警告.1}</i></size></color>,
+界面控件组,FALSE,<color=#FFCC33><i>{1:ps.结算文字}</i></color>,
+界面控件组,TRUE,介绍,introduce
+界面控件组,TRUE,功能,Function
+界面控件组,TRUE,基础关卡中的第10关,Level 10 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第11关,Level 11 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第12关,Level 12 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第13关,Level 13 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第14关,Level 14 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第15关,Level 15 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第16关,Level 16 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第17关,Level 17 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第18关,Level 18 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第19关,Level 19 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第1关,Level 1 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第20关,Level 20 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第21关,Level 21 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第22关,Level 22 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第23关,Level 23 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第24关,Level 24 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第25关,Level 25 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第2关,Level 2 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第3关,Level 3 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第4关,Level 4 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第5关,Level 5 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第6关,Level 6 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第7关,Level 7 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第8关,Level 8 of the Basic Levels
+界面控件组,TRUE,基础关卡中的第9关,Level 9 of the Basic Levels
+界面控件组,TRUE,奇遇介绍,Adventure Overview
+界面控件组,TRUE,奇遇结算倒计时:,Adventure Settlement Countdown:
+界面控件组,FALSE,当前状态:<color=#FFCC33>{1:ps.当前状态}</color>,
+界面控件组,TRUE,教学关卡中的第1关，要求是学会把立方体推到终点。,The first level of the tutorial requires you to learn how to push a cube to the finish line.
+界面控件组,TRUE,教学关卡中的第2关，要求是学会元素反应蒸发.,"The second stage of the tutorial requires you to learn the ""Vaporize"" Elemental Reaction."
+界面控件组,TRUE,教学关卡中的第3关，要求是学会元素反应超载。,The third stage of the tutorial requires you to learn the Overload Elemental Reaction.
+界面控件组,FALSE,教学关卡中的第4关，要求是学会载,
+界面控件组,FALSE,教学关卡中的第5关，要求是学会,
+界面控件组,TRUE,教学基础的玩法与元素反应。,The gameplay and element reactions of teaching fundamentals.
+界面控件组,TRUE,"本奇遇是推箱子加元素反应。
+以下是功能介绍:
+菜单:可以使用退出关卡，重置关卡或选择关卡。
+退出关卡:退出当前关卡。
+重置关卡:重置当前关卡，包括刚退出的关卡。
+观战:观看其他人闯关。当选择关卡正在被闯关时，可以选择。
+元素反应:
+水与火会蒸发，参与反应的立方体会消失。
+冰和火会融化，参与反应的立方体会消失。
+火和雷会超载，参与反应的立方体会消失并破坏3x3的立方体。
+水和雷会感电，尚未完成。
+水合冰会冻结，还没做。
+冰和雷会超导，也没做。","This adventure is a combination of box-pushing and elemental reactions.  
+The following are feature descriptions:  
+Menu: You can use it to exit the level, reset the level, or select a level.  
+Exit Level: Exit the current level.  
+Reset Level: Reset the current level, including the one just exited.  
+Spectate: Watch others complete levels. When a selected level is being played, you can choose this option.  
+Elemental Reactions:  
+Water and Fire will evaporate; the cubes involved in the reaction will disappear.  
+Ice and Fire will melt; the cubes involved in the reaction will disappear.  
+Fire and Lightning will overload; the cubes involved in the reaction will disappear and destroy a 3x3 area of cubes.  
+Water and Lightning will electrify; not yet completed.  
+Water and Ice will freeze; not yet implemented.  
+Ice and Lightning will superconduct; also not yet implemented."
+界面控件组,FALSE,"本奇遇是推箱子加元素反应相结合的玩法。
+感谢你来游玩本奇遇，以下是一些介绍。
+
+按钮介绍:
+选关:点击后跳出选关界面，有教程关卡和基础关卡，教程关卡是基础关卡中的关卡，用于学习相关机制。基础关卡共25关，相关机制一点点出现。
+退出:退出当前关卡，可在观战中与闯关中生效。
+重置:重置当前关卡，只在闯关过程中生效。
+观战:打开观战列表，选择对应玩家可以观战。目前因为一些原因未存在玩家会显示其变量名称，这个不需要去管，不会对正常使用造成影响，只是看起来不太好看而已。
+介绍:点击后跳出介绍弹窗，与开始的弹窗是同一个。
+结算:点击后会进行30秒的倒计时，倒计时结束后结算关卡。
+
+元素反应介绍:
+水与火会蒸发，参与反应的立方体会消失。
+冰与火会融化，参与反应的立方体会消失。
+火与雷会超载，参与反应的立方体会消失并破坏3x3的可破坏立方体。
+水与雷会感电，参与反应的水质立方体会消失，并持续为周围一定范围内水质立方体供能，被供能的水质立方体也会对一定范围内的水质立方体供能。
+水与冰会冻结，参与反应的立方体会消失，在原地生成一个冻质立方体，能与火质立方体反应，参与其反应的立方体会消失，生成一个水质立方体。
+
+充能元件介绍:
+充能平台:当雷质立方体或被供能的水质立方体在该平台上时会为其连接的充能元件供能。充能元件与充能平台由导线连接。
+升降门:供能后逆转开关状态，关闭时人与立方体皆不可通过。
+推动平台:供能后逆转开关状态，开启时会推动在其上方的立方体。",
+界面控件组,FALSE,标题文本,
+界面控件组,TRUE,正式的关卡玩法，会逐渐增加关卡。,The formal level gameplay will gradually increase levels.
+界面控件组,TRUE,步数:{1:p1.步数},number of actions:{1:p1.步数}
+界面控件组,TRUE,步数:{1:p2.步数},number of actions:{1:p2.步数}
+界面控件组,TRUE,步数:{1:p3.步数},number of actions:{1:p3.步数}
+界面控件组,TRUE,步数:{1:p4.步数},number of actions:{1:p4.步数}
+界面控件组,TRUE,步数:{1:p5.步数},number of actions:{1:p5.步数}
+界面控件组,TRUE,步数:{1:p6.步数},number of actions:{1:p6.步数}
+界面控件组,TRUE,步数:{1:p7.步数},number of actions:{1:p7.步数}
+界面控件组,TRUE,步数:{1:p8.步数},number of actions:{1:p8.步数}
+界面控件组,TRUE,步数:{1:ps.步数},number of actions:{1:p9.步数}
+界面控件组,FALSE,步数:<color=#37FFFF>{1:ps.步数}</color>,
+界面控件组,TRUE,玩家关卡,Player made
+界面控件组,FALSE,玩家出的关卡。,
+界面控件组,TRUE,玩家名称:{1:ps.玩家名称},Player name:{1:ps.玩家名称}
+界面控件组,TRUE,第10关,Level 10
+界面控件组,TRUE,第11关,Level 11
+界面控件组,TRUE,第12关,Level 12
+界面控件组,TRUE,第13关,Level 13
+界面控件组,TRUE,第14关,Level 14
+界面控件组,TRUE,第15关,Level 15
+界面控件组,TRUE,第16关,Level 16
+界面控件组,TRUE,第17关,Level 17
+界面控件组,TRUE,第18关,Level 18
+界面控件组,TRUE,第19关,Level 19
+界面控件组,TRUE,第1关,Level 1
+界面控件组,TRUE,第20关,Level 20
+界面控件组,TRUE,第21关,Level 21
+界面控件组,TRUE,第22关,Level 22
+界面控件组,TRUE,第23关,Level 23
+界面控件组,TRUE,第24关,Level 24
+界面控件组,TRUE,第25关,Level 25
+界面控件组,TRUE,第2关,Level 2
+界面控件组,TRUE,第3关,Level 3
+界面控件组,TRUE,第4关,Level 4
+界面控件组,TRUE,第5关,Level 5
+界面控件组,TRUE,第6关,Level 6
+界面控件组,TRUE,第7关,Level 7
+界面控件组,TRUE,第8关,Level 8
+界面控件组,TRUE,第9关,Level 9
+界面控件组,TRUE,紫色的那个是雷立方体，橙色的是火立方体。雷与火相互接触时(雷/火推向另一个火/雷时)会超载，已被推向的为中心，破坏3x3的方块。方块的移动规则与通常立方体一样。,The purple one is the Thunder Cube
+界面控件组,TRUE,菜单,Level Selection
+界面控件组,TRUE,蓝色平台为起点，金色平台是通常立方体的终点。通常立方体在前进方向上无方块时可推动。,The blue platform is the starting point
+界面控件组,TRUE,蓝色的是水质立方体，橙色的是火质立方体。水与火相互接触时(水/火推向另一个火/水时)会蒸发，两个方块消失。方块的移动规则与通常立方体一样。,The blue one is a water cube
+界面控件组,TRUE,观战,Watch the battle
+界面控件组,TRUE,选关,Select Level
+界面控件组,TRUE,选择后进入观战模式，可以观看其他人闯关,"After selecting, you enter spectator mode and can watch others pass the levels."
+"界面控件组,节点图",TRUE,结算,Settlement
+"界面控件组,节点图",TRUE,退出,Exit
+"界面控件组,节点图",TRUE,重置,Reset
+节点图,FALSE,0,
+节点图,FALSE,1,
+节点图,FALSE,180,
+节点图,FALSE,2,
+节点图,FALSE,270,
+节点图,FALSE,3,
+节点图,FALSE,4,
+节点图,FALSE,90,
+节点图,FALSE,GI_FocusAnchor,
+节点图,FALSE,GI_HandL,
+节点图,FALSE,GI_HandR,
+节点图,FALSE,GI_RootNode,
+节点图,FALSE,上一次点击按钮,
+节点图,FALSE,中点,
+节点图,FALSE,充能元件,
+节点图,FALSE,充能平台,
+节点图,FALSE,充能更新列表,
+节点图,FALSE,充能等级,
+节点图,FALSE,关卡1,
+节点图,FALSE,关卡变量,
+节点图,FALSE,关卡平台,
+节点图,FALSE,关卡得分,
+节点图,FALSE,关卡总分,
+节点图,FALSE,关卡数,
+节点图,FALSE,关卡类型,
+节点图,FALSE,初始开启,
+节点图,FALSE,否,
+节点图,FALSE,奇遇结算倒计时,
+节点图,FALSE,已进入奇遇,
+节点图,FALSE,强制退出关卡,
+节点图,FALSE,强制退出定时器,
+节点图,FALSE,当前状态,
+节点图,FALSE,循环计时器,
+节点图,FALSE,感电1,
+节点图,FALSE,成功通关,
+节点图,FALSE,挑战关卡,
+节点图,FALSE,挑战者,
+节点图,FALSE,提示与警告,
+节点图,FALSE,是,
+节点图,FALSE,是否充能了,
+节点图,FALSE,是否可破坏,
+节点图,FALSE,是否已开启,
+节点图,FALSE,是否开启了,
+节点图,FALSE,显示时间,
+节点图,FALSE,未通关,
+节点图,TRUE,本名玩家不存在！请选择观战存在的玩家,The real player does not exist! Please select players who are present to watch the game
+节点图,FALSE,栅栏门,
+节点图,FALSE,栅栏门平台,
+节点图,FALSE,步数,
+节点图,FALSE,清空生成物列表,
+节点图,FALSE,玩家GUID,
+节点图,FALSE,玩家名称,
+节点图,FALSE,玩家挑战关卡,
+节点图,FALSE,玩家数据存储,
+节点图,FALSE,玩家是否在奇遇,
+节点图,FALSE,玩家通关状态,
+节点图,FALSE,生成物,
+节点图,FALSE,生成物列表,
+节点图,FALSE,移动结束,
+节点图,FALSE,终点_终点(通常),
+节点图,FALSE,结算按钮,
+节点图,FALSE,结算文字,
+节点图,FALSE,结算计时器,
+节点图,FALSE,观战_按钮索引→玩家GUID,
+节点图,TRUE,观战中,watching the battle
+节点图,TRUE,请在其他人闯关时在观战,Please watch while others pass the level
+节点图,TRUE,请退出或通关后再观战其他人闯关！,Please exit or complete the level before watching others pass it!
+节点图,FALSE,超载,
+节点图,FALSE,退出按钮,
+节点图,FALSE,选关中,
+节点图,FALSE,通关中,
+节点图,FALSE,通关成功!,
+节点图,FALSE,重置按钮,
